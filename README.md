@@ -1,5 +1,6 @@
 # Machine-Learning
 CSE691
+Learning Outcome:
 1. Understand the basic training and inference techniques and performance criteria of a neural
 network
 2. Explain the structure and neuron functions in a deep convolutional neural network
